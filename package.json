@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/Mushko2932/node-js-hw-01#readme",
   "dependencies": {
+    "commander": "^11.0.0",
+    "nanoid": "^3.3.6",
     "nodemon": "^2.0.22"
   }
 }
